@@ -1,0 +1,21 @@
+Daily Summary of r/Python - 2025-01-26
+==================================================
+
+Title: For my Textual users! Neovim plugin to support Textual CSS Syntax Highlighting
+URL: https://www.reddit.com/r/Python/comments/1i9stwk/for_my_textual_users_neovim_plugin_to_support/
+
+
+Title: Currex - Pythonic currency calculator with exchange rates
+URL: https://www.reddit.com/r/Python/comments/1i9sn69/currex_pythonic_currency_calculator_with_exchange/
+
+
+Title: Sunday Daily Thread: What's everyone working on this week?
+URL: https://www.reddit.com/r/Python/comments/1ia0tm7/sunday_daily_thread_whats_everyone_working_on/
+
+
+Title: A technical intro to Ibis: The portable Python DataFrame library
+URL: https://www.reddit.com/r/Python/comments/1ia1gjx/a_technical_intro_to_ibis_the_portable_python/
+
+
+Title: Best AI for python programming?
+URL: https://www.reddit.com/r/Python/comments/1iabwj1/best_ai_for_python_programming/
