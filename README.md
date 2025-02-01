@@ -53,3 +53,30 @@ Test with a payload:
     {
     "subreddit": "python" ##for testing, we can choose any subreddit
 }
+
+Automating with Windows Task Scheduler
+You can set up Windows Task Scheduler to run this script automatically at a scheduled time.
+
+Steps to Set Up Automation
+    Open Task Scheduler
+        Press Win + R, type taskschd.msc, and hit Enter.
+        
+    Create a New Task
+        Click "Create Basic Task" and name it (e.g., "Reddit Fetcher").
+
+    Set a Trigger (Schedule)
+        Choose Daily (or your preferred frequency).
+        Set the time (e.g., 9:00 AM every day).
+    
+    Set the Action
+        Select "Start a Program".
+        In "Program/Script", enter the path to python.exe: 
+            C:\Python39\python.exe
+        In "Add arguments", enter the full path to your script:
+            C:\Users\YourName\fetch_top_posts_reddit.py
+    
+    Finish and Enable Task
+        Click Finish.
+        In Task Scheduler Library, right-click your task and click Run to test.
+
+Now, your script will run automatically at the scheduled time!

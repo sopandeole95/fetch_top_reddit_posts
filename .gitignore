@@ -1,0 +1,22 @@
+# Ignore all __pycache__ and compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore text files with fetched Reddit posts
+reddit_summaries/*
+!reddit_summaries/example_output.txt
+
+# Ignore OS-specific files (Mac and Windows)
+.DS_Store
+Thumbs.db
+token.json
